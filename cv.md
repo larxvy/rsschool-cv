@@ -35,3 +35,13 @@ function minSum(arr) {
     return sum;
 }
 ```
+
+### Education 🎓
+- **University:** College of Economics and Computer Science (secondary special education)
+- **Courses:** 
+    - **[FreeCodeCamp](https://www.freecodecamp.org/)**
+    - **[LearnJavaScript](https://learn.javascript.ru/)**
+
+### Languages 👅
+- **Russian** - Native
+- **English** - A2
