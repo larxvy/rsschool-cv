@@ -9,7 +9,7 @@
 
 ### About Me 👀
 
-I am 22 years old, I am studying web development. I like to follow the development of the web, design, CG and technology in general.
+I am 22 years old, I am studying web development. I like to follow the development of the `web`, `design`, `CG` and `technology` in general.
 
 ### Skills ⚙️
 ```
@@ -45,3 +45,6 @@ function minSum(arr) {
 ### Languages 👅
 - **Russian** - Native
 - **English** - A2
+
+<br>
+<img src="https://rs.school/images/partners/logo-rs.svg" alt="rss" width="150"/>
